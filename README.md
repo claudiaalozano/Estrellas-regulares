@@ -23,4 +23,5 @@ def generar_estrella(puntas):
         return angulo
 
 puntas= int(input("¿Cuántas puntas quieres que tenga la estrella?:"))
-generar_estrella(puntas)```
+generar_estrella(puntas)
+```
